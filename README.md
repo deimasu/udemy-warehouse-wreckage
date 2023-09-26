@@ -1,4 +1,4 @@
-# Warehouse Wreckage (UE5 learn project)
+# Warehouse Wreckage (UE5 Learning Project)
 
 ## Description
 This is the first UE5 project created by me as part of the Udemy UE5 game development course. This project is entirely built using the Blueprint visual programming language. In this game, players can explore a warehouse and shoot moving objects in the scene with projectiles.
